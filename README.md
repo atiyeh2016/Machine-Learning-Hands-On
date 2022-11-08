@@ -1,4 +1,4 @@
-# Machine-Learning-Hands-On
+# Machine Learning Hands On
 
 **Linear regression**  
   &emsp;Parametric learning models:  
