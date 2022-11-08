@@ -1,14 +1,18 @@
 # Machine-Learning-Hands-On
 
-Linear regression
-parametric learning models
-  model and its parametrs. what methods to learn hyperparamters
-  closed solution
-  numeriacal methods
+Linear regression  
+  Parametric learning models:  
+      Define models and their parameters: what methods should be used to learn the hyperparameters  
+      Closed solution  
+      Numeriacal methods  
+   Higher degrees regressiona using polynomial kernels  
+   A method for understanding the complexity of the model  
+   bias-variance tradeoff  
   
- higher degrees regression --> with kernel polynomial
- a method for understanign the complexity of the model
- the data is enought for model or model may overfit
- bois-variance tradeoff
+ Logistic Regression   
+   The logistic regression model  
+   Is it a classifier?  
+   Linear Regression Vs Logistic Regression  
+
  
  
