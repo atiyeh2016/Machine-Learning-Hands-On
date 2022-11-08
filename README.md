@@ -1,6 +1,6 @@
 # Machine-Learning-Hands-On
 
-Linear regression  
+**Linear regression**  
   &emsp;Parametric learning models:  
       &emsp;&emsp;Define models and their parameters: what methods should be used to learn the hyperparameters  
       &emsp;&emsp;Closed solution  
@@ -9,7 +9,7 @@ Linear regression
    &emsp;A method for understanding the complexity of the model  
    &emsp;bias-variance tradeoff  
   
- Logistic Regression   
+ **Logistic Regression**  
    &emsp;The logistic regression model  
    &emsp;Is it a classifier?  
    &emsp;Linear Regression Vs Logistic Regression  
