@@ -2,9 +2,9 @@
 
 Linear regression  
   &emsp;Parametric learning models:  
-      &emsp;Define models and their parameters: what methods should be used to learn the hyperparameters  
-      &emsp;Closed solution  
-      &emsp;Numeriacal methods  
+      &emsp;&emsp;Define models and their parameters: what methods should be used to learn the hyperparameters  
+      &emsp;&emsp;Closed solution  
+      &emsp;&emsp;Numeriacal methods  
    &emsp;Higher degrees regressiona using polynomial kernels  
    &emsp;A method for understanding the complexity of the model  
    &emsp;bias-variance tradeoff  
