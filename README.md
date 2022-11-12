@@ -16,7 +16,7 @@
  
 **Parametric Density Estimation**  
 &emsp;Maximum Likelihood Estimation  
-&emsp;Bayesian Density Estimation 
+&emsp;Bayesian Density Estimation  
 &emsp;Expectation-Maximization  
 &emsp;Markov Models  
 
